@@ -10,10 +10,19 @@ nav_order: 1
 Welcome to EAG documentation! This website hosts a wealth of procedures and processes for the Experimental Astrophysics Group.
 {: .fs-6 .fw-300 }
 
-[Get started now](#contribution-guidelines){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Get started now](#contribution-guidelines){: .btn .btn-blue .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Source Repository](https://github.com/marvinlinn/eag-documentation){: .btn .btn-outline .fs-5 .mb-4 .mb-md-0 }
 
 ---
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 ## Overview
 {: .fw-700 }
@@ -34,7 +43,7 @@ When Jekyll is building the website, it will automatically scrape through each f
 
 While there are numerous ways you can format the pages, a template is provided. Feel free to copy this template and/or other pages in order to appropriately format process manuals and procedures.
 
-I highly reccomend taking advantage of [Just the Docs' Docuumentation](https://just-the-docs.com/) to configure your page. There are a variety of formatting and tools that can be used to create effective procedures and documentation!
+I highly recommend taking advantage of [Just the Docs' Docuumentation](https://just-the-docs.com/) to configure your page. There are a variety of formatting and tools that can be used to create effective procedures and documentation!
 
 ### Updating Procedures
 
@@ -57,7 +66,7 @@ Assuming [Jekyll](https://jekyllrb.com/docs/installation/) and [Bundler](https:/
 ## Contributers
 {: .fw-700 }
 
-**Spring 2024** (V1.0): Marvin Lin, Sara Kofman, Andrew Ji
+**Spring 2024** (v1.0): Marvin Lin, Sara Kofman, Andrew Ji
 
 ----
 
