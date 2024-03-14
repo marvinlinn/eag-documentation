@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: EAG Docs
+description: Documentation and Procedures for the Experimental Astrophysics Group @ SSL
 theme: just-the-docs
 
-url: https://marvinlinn.github.io/eag-documentation
+url: https://eag.marvinlin.space
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Space Sciences Lab: https://www.ssl.berkeley.edu/
+  Source Repository: https://github.com/marvinlinn/eag-documentation
