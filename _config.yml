@@ -1,6 +1,10 @@
 title: EAG Docs
 description: Documentation and Procedures for the Experimental Astrophysics Group @ SSL
-theme: just-the-docs
+# For Local Usage
+# theme: just-the-docs
+
+# For GitHub Pages Usage
+remote_theme: pmarsceill/just-the-docs
 
 url: https://eag.marvinlin.space
 
