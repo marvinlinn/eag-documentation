@@ -28,7 +28,7 @@ When testing is completed, the pumping cart should be powered down and the detec
 #### Step 0: Workbench Setup
 {: .fw-700 }
 
-Before we move forwards with breakdown of a detector, ensure that your workbench is appropriately setup for detector disassembly. Clean the bench with q quick isopropanol wipe, and (optionally) place and tape down a clean sheet of aluminum foil. Collect the tools you need for disassembly. Here is a rough guideline of tools you may need:
+Before we move forwards with breakdown of a detector, ensure that your workbench is appropriately setup for detector disassembly. Clean the bench with a quick isopropanol wipe, and (optionally) place and tape down a clean sheet of aluminum foil. Collect the tools you need for disassembly. Here is a rough guideline of tools you may need:
 
 | Tools        | Location         |
 |:-------------|:------------------|
@@ -74,6 +74,35 @@ The test detector can now be place on a Class 100 workbench for disassembly. Rem
 {: .warning }
 > Once there is only a single bolt left, the front window may come loose and pivot. **Be extra careful at this stage.**
 
-#### Step 4: Begin Dissassembly
+One you have removed the window conflat, place it to the side carefully.
+
+#### Step 4: Protect and Remove MCP Clamp
 {: .fw-700 }
-Using the **Test Detector Base Holder**, 
+Using the **Test Detector Base Holder**, carfelly place the test detector onto it. This helps with assembly/disassembly inconviencies due to detector output SMA connectors, as well as applying unessecary stress/strain on them. 
+
+Begin by taking the **MCP Cover** and placing it over the exposed MCP. This protects against accidental damage to the fragile plates. Using the **T7 Torx Driver**, unscrew the three (or six) M2 fasteners holding the MCP clamp. Place the screws into a petri dish. Remove the clamping ring from the setup.
+
+#### Step 5: Remove clamping spacers, leaf spring, and wedge
+{: .fw-700 }
+
+Using a **dental pick**, carefully remove the clamping spacers from the detector. Place them into a petri dish. Remove the MCP Cover and place it into a petri dish.
+
+{: .warning }
+> From here on out, you will be working with exposed MCPs. Be very careful with handling tools around the plates, and well as physically handeling them. **DO NOT TOUCH THE SURFACE OF THE PLATES**, only touch the edges to prevent contamination and damage. While plates _can_ be cleaned, it is a tedious and time consuming process.
+
+Once again using the **dental pick**, carefully remove the leaf spring from the detector. To best remove the 
+
+#### Step 6: Remove and Package TOP MCP
+{: .fw-700 }
+
+#### Step 7: Remove and Package BOT MCP
+{: .fw-700 }
+
+#### Step 8: Inspect, Clean, and Protect Test Detector
+{: .fw-700 }
+
+#### Step 9: Store Sensitive Components
+{: .fw-700 }
+
+#### Step 10: Clean Workspace
+{: .fw-700 }
