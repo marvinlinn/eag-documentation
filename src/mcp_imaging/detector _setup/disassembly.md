@@ -120,18 +120,50 @@ In order to properly power down the vaccuum pumping setup, we must appropriately
 #### Step 3: Backfilling the Vaccuum Setup
 {: .fw-700 }
 
-4. Turn on the N2 supply.
-5. Open the N2 backfilling/venting valve. Wait until pressure has stabilized.
-6. Close the backfilling/venting valve and close the N2 supply line.
+1. Turn on the N2 supply.
+2. Open the N2 backfilling/venting valve. Wait until pressure has stabilized.
+3. Close the backfilling/venting valve and close the N2 supply line.
+
+<div class="row">
+  <div class="column">
+    <img src="/assets/img/disassembly/8_nitrogen_flow.gif" />
+    <p align:center style="text-align:center; font-style: italic; font-size:12px; margin: auto;">
+      Turn on Gaseous Nitrogen Valve
+    </p>
+  </div>
+  <div class="column">
+    <img src="/assets/img/disassembly/9_nitrogen_flowing.gif" />
+    <p align:center style="text-align:center; font-style: italic; font-size:12px; margin: auto;">
+      Backfill with Gaseous Nitrogen
+    </p>
+  </div>
+</div>
+<div align:center style="width:65%; margin: auto;">
+    <img src="/assets/img/disassembly/10_nitrogen_valve.gif" />
+    <p align:center style="text-align:center; font-style: italic; font-size:12px; margin: auto;">
+      Turn off Gaseous Nitrogen Supply
+    </p>
+</div>
 
 #### Step 4: Removing the Test Detector
 {: .fw-700 }
 
 Once the pumping cart and detector assembly is powered down and backfilled with N2, you can remove the detector from the pumping cart. Locate the C clamp and unscrew until the clamp comes off. Carefully pull off the detector and cover the exposed port with aluminum foil.
 
-<p align:center style="width:60%; margin: auto;">
-  <img src="/assets/img/test.gif" />
-</p>
+<div class="row">
+  <div class="column">
+    <img src="/assets/img/disassembly/11_c_clamp.gif" />
+    <p align:center style="text-align:center; font-style: italic; font-size:12px; margin: auto;">
+      Remove C-clamp for detector
+    </p>
+  </div>
+  <div class="column">
+    <img src="/assets/img/disassembly/12_cover_bring.gif" />
+    <p align:center style="text-align:center; font-style: italic; font-size:12px; margin: auto;">
+      Remove detector, cover exposed port, and bring detector to workbench
+    </p>
+  </div>
+</div>
 
 #### Step 5: Window Removal
 {: .fw-700 }
@@ -142,6 +174,13 @@ The test detector can now be place on a Class 100 workbench for disassembly. Rem
 > Once there is only a single bolt left, the front window may come loose and pivot. **Be extra careful at this stage.**
 
 One you have removed the window conflat, place it to the side carefully.
+
+<div align:center style="width:65%; margin: auto;">
+    <img src="/assets/img/disassembly/12_unscrew_bolts.gif" />
+    <p align:center style="text-align:center; font-style: italic; font-size:12px; margin: auto;">
+      Remove detector window
+    </p>
+</div>
 
 #### Step 6: Protect and Remove MCP Clamp
 {: .fw-700 }
