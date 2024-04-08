@@ -12,6 +12,11 @@ last_modified_date: March 21st, 2024
 {: .fs-8 .fw-500}
 # Backfilling and Disassembling a Test Detector
 
+# TESTGIF
+<p align:center style="width:60%; margin: auto;">
+  <img src="/assets/img/disassembly/test_put.webp" />
+</p>
+
 {: .fs-5 .fw-300 }
 The following page provides an overview of detector build-up of a 33mm MCP detector. Build-up usually occurs in RM125. 
 
@@ -32,7 +37,8 @@ When testing is completed, the pumping cart should be powered down and the detec
 
 <br />
 <p align:center style="width:60%; margin: auto;">
-  <img src="/assets/img/disassembly/1_cleaning.gif" />
+  <!-- <img src="/assets/img/disassembly/1_cleaning.gif" /> -->
+  <img src="/assets/img/disassembly/webp_test1.webp" />
 </p>
 <p align:center style="text-align:center; font-style: italic; font-size:12px; margin: auto;">
   Cleaning the workbench
