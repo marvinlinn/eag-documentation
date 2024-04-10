@@ -20,17 +20,23 @@ Documentation for video processing to be used for instructions
 
 ### Relevant Commands
 
-Example command to convert to a single webp file (best format so far), since gifs are too large:
+- Example command to convert to a single webp file (best format so far), since gifs are too large:
 
 `ffmpeg -i test_nitrogen_valve.mp4 -vcodec libwebp -filter:v fps=fps=20 -lossless 1 -loop 0 -preset default -an -vsync 0 -s 640:360 test2.webp`
 
-To loop through + create a new file for each processed file in a folder:
-
-(replace avi with your file extension):
+- To loop through + create a new file for each processed file in a folder (replace avi with your file extension):
 
 ` for i in *.avi; do ffmpeg -i "$i" "${i%.*}.mp4"; done`
 
-To loop through + process each .mov file according to our specifications:
+- To loop through + speed up each .mov file (copying from the preview text does not work in the terminal, so take the txt directly from .md) (note that you cannot speed up .webp files):
+
+`
+for file in *.mov *.MOV; do
+    ffmpeg -i "$file" -vf "setpts=0.5*PTS" -an "${file%.*}_2xSpeed.${file##*.}"
+done
+`
+
+- To loop through + process each .mov file according to our specifications (copying from the preview text does not work in the terminal, so take the txt directly from .md):
 
 `
 for file in *.mov *.MOV; do
@@ -47,3 +53,8 @@ for file in *.mov *.MOV; do
 done
 `
 
+<!-- `
+for file in *.mov *.MOV; do
+    ffmpeg -i "$file" -vcodec libwebp -compression_level 6 -q:v 60 -loop 0 -preset picture -an -s 640x360 -r 20 "${file%.*}.webp"
+done
+` -->
