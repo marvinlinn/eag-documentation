@@ -11,9 +11,9 @@ last_modified_date: April 11th, 2024
 # Deposition Chamber Background
 
 {: .fs-5 .fw-300 }
-The following page provides an overview of testing procedures for ALD MCPs. Testing usually occurs in Silver RM 125. 
+The following page provides an overview of our deposition chamber & its use. It is located in 119 Addition, within the Tube Lab. 
 
-*Last Updated: March 14th, 2024 by Marvin Lin*
+*Last Updated: April 11th, 2024 by Andrew Ji*
 
 ---
 
