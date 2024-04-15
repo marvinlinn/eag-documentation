@@ -87,11 +87,14 @@ Before powering down the vaccuum pumping setup, we need to disconnect the detect
 #### Step 2: Powering Down the Pumping Cart
 {: .fw-700 }
 
-In order to properly power down the vaccuum pumping setup, we must appropriately close each valve and power down the system.
+{: .warning }
+> The turbo pump is designed to bring the system to vacuum once it is already at low pressure, so it is always paired with a backing pump. Spinning the turbopump at atmospheric pressure may wear the blades down, so make sure to follow the order of steps in closing each valve and powering down the system.
 
-1. Close the main system valve.
+1. Close the gate valve (valve 1), which isolates the pump from the chamber. 
 2. Power down the turbopump using the turbopump controller. Wait until it has fully spun down to avoid damaging the pump.
 3. Power down the scroll pump.
+
+The bellows valve (valve 2) isolates the detector from the chamber and may be left open/closed depending on the configuration of the setup (i. e.: if the pumping cart has two detector attachment points, one may want to leave one detector attached but only test the other one).
 
 <div class="row">
   <div class="column">
