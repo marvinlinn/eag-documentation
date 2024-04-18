@@ -221,7 +221,7 @@ Using the **T7 Torx Driver**, unscrew the three (or six) M2 fasteners holding th
 
 Using a **dental pick**, carefully remove the clamping spacers from the detector. Place them into a petri dish. Remove the MCP Cover and place it into a petri dish.
 
-Once again using the **dental pick**, carefully remove the leaf spring from the detector. To best remove the spring, insert the leaf spring into the 
+Once again using the **dental pick**, carefully remove the leaf spring from the detector. To best remove the spring, insert the dental pick into the small slot for the MCP Mid voltage, and pull up. To remove the circular wedge, push the part towards the side walls and use the friction against the side wall to pull the wedge up. Be careful to not scratch the MCPs throughout this process.
 
 <div class="row">
   <div class="column">
@@ -240,6 +240,9 @@ Once again using the **dental pick**, carefully remove the leaf spring from the 
 
 #### Step 8: Remove and Package TOP MCP
 {: .fw-700 }
+
+Using a set of dental picks, push the MCP towards the side walls of the detector. Using little force, push the MCP against the side wall. Then, using friction, pull upwards to pull the MCP upwards. Note that there are certainly other methods to remove the MCP, however this is a proven method that works without touching the surface of the MCP to prevent damage/scratches. 
+
 <div class="row">
   <div class="column">
     <img src="/assets/img/disassembly_webp/15_prepare_casing_top.webp" />
@@ -264,6 +267,9 @@ Once again using the **dental pick**, carefully remove the leaf spring from the 
 
 #### Step 9: Remove and Package BOT MCP
 {: .fw-700 }
+
+Similarly, we can remove the **bottom MCP** from the detector. Before attempting removal, use a set of tweezers to keep the mid voltage node out of your work area. Then, approach removal exactly as the **TOP MCP**.
+
 <div class="row">
   <div class="column">
     <img src="/assets/img/disassembly_webp/18_prepare_casing_bot.webp" />
@@ -279,18 +285,19 @@ Once again using the **dental pick**, carefully remove the leaf spring from the 
   </div>
 </div>
 
-<!-- #### Step 10: Inspect, Clean, and Protect Test Detector
-{: .fw-700 } -->
+#### Step 10: Protect Detector, Store Sensitive Components
+{: .fw-700 }
 
-#### Step 11: Protect Detector, Store Sensitive Components
+Once the disassembly process is complete, take the time to store all of the sensitve componets (**Test Detector** and **MCPs**).
+
 <div align:center style="width:65%; margin: auto;">
     <img src="/assets/img/disassembly_webp/20_put_away.webp" />
     <p align:center style="text-align:center; font-style: italic; font-size:12px; margin: auto;">
-      Cover the detector and put components away in the Nitrogen cabinet
+    Cover the detector using a glass petri dish, and store the detector and MCPs in the N2 cabinets.
     </p>
 </div>
+
+#### Step 11: Clean Workspace
 {: .fw-700 }
 
-#### Step 12: Clean Workspace
-{: .fw-700 }
-Return tools to their spots
+Return tools to their original locations.
