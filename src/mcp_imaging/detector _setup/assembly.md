@@ -17,8 +17,12 @@ The following page provides an overview of detector build-up of a 33mm MCP detec
 ## Introduction
 {: .fw-700 }
 
+Assembling a test detector for MCPs is a fairly straightforwards process with practice, however your first few attempts may be sloppy. This set of procedures is designed to guide someone through the full process of assembling a test detector.
+
 <!-- ## Walkthrough Video
 {: .fw-700 } -->
+## Procedure
+{: .fw-700 }
 #### Step 0: Identify Testing Parameters
 {: .fw-700 }
 
@@ -28,12 +32,12 @@ Before building a test detector, first identify the testing parameter of your se
 - How are the plates intended to be stacked?
 - How are the plate oriented (flipped)?
 
-Having and understanding of exactly how the detector should be configued will ensure a straightforwards assembly process.
+Having and understanding of exactly how the detector should be configured will ensure a straightforwards assembly process.
 
 #### Step 1: Workbench Setup
 {: .fw-700 }
 
-Before we move forwards with breakdown of a detector, ensure that your workbench is appropriately setup for detector disassembly. Clean the bench with q quick isopropanol wipe, and (optionally, but reccomended) place and tape down a clean sheet of aluminum foil. 
+Before we move forwards with breakdown of a detector, ensure that your workbench is appropriately setup for detector disassembly. Clean the bench with quick isopropanol wipe, and (optionally, but recommended) place and tape down a clean sheet of aluminum foil. 
   <br />
   <p align:center style="width:60%; margin: auto;">
     <img src="/assets/img/disassembly_webp/1_cleaning.webp" />
@@ -164,8 +168,8 @@ Collect the tools you need for disassembly. Here is a rough guideline of tools y
       Attaching flange to detector
     </p>
 
-  {: .warning }
-  > At this point, ensure that the MCP is fastened and no part is moving. If you notice that any part is not properly secured or a voltage contact point is failing to make contact, redo the appropriate steps.
+    {: .warning }
+    > At this point, ensure that the MCP is fastened and no part is moving. If you notice that any part is not properly secured or a voltage contact point is failing to make contact, redo the appropriate steps.
 
 4. Place the **detector window** on top of the assembled pieces, align the two parts, place the bolts inside, and use the wrenches to secure them in place.
     <p align:center style="width:60%; margin: auto;">
@@ -175,7 +179,7 @@ Collect the tools you need for disassembly. Here is a rough guideline of tools y
       Securing the detector and window
     </p>
 
-4. Label MCP serial numbers corresponding to the top and bottom plates and tape note onto the detector.
+5. Label MCP serial numbers corresponding to the top and bottom plates and tape note onto the detector.
     <p align:center style="width:60%; margin: auto;">  
       <img src="/assets/img/assembly_webp/10_label.webp" />
     </p>
@@ -186,13 +190,13 @@ Collect the tools you need for disassembly. Here is a rough guideline of tools y
 #### Step 6: Pumping Cart Detector Setup
 {: .fw-700 }
 1. Bring the detector over to the pumping cart.
-2. Remove the aluminium foil from the attachment point of the detector and place the detector down, supporting it.
+2. Remove the aluminum foil from the attachment point of the detector and place the detector down, supporting it.
 3. Ensuring the detector is stable and upright, attach and secure the c-clamp.
     <p align:center style="width:60%; margin: auto;">
       <img src="/assets/img/assembly_webp/11_foil_clamp.webp" />
     </p>
     <p align:center style="text-align:center; font-style: italic; font-size:12px; margin: auto;">
-      Removing aluminium foil and clamping down detector to pumping cart
+      Removing aluminum foil and clamping down detector to pumping cart
     </p>
 
 4. Match the cables on the cart to their labeled input ports on the detector.  
@@ -209,10 +213,10 @@ Collect the tools you need for disassembly. Here is a rough guideline of tools y
 2. Open the **gate valve**.
    (Unscrew the locking bolt until loose and turn open the valve. Secure the locking bolt once the valve is open.)
 
-{: .warning }
-> At the present step, the scroll pump is pumping out the gas from the detector and the chamber. Ensure that the pressure is below 1*10^3 torr before moving on, in order to not damage the turbo pump.
+    {: .warning }
+    > At the present step, the scroll pump is pumping out the gas from the detector and the chamber. Ensure that the pressure is below 1*10^3 torr before moving on, in order to not damage the turbo pump.
 
-4. Once the system is at 1*10^3 torr, turn on the **turbo pump** to eliminate residual gas from the system and maintain vacuum.
+3. Once the system is at 1*10^3 torr, turn on the **turbo pump** to eliminate residual gas from the system and maintain vacuum.
     <p align:center style="width:60%; margin: auto;">
       <img src="/assets/img/assembly_webp/13_valves_dial.webp" />
     </p>
@@ -220,11 +224,11 @@ Collect the tools you need for disassembly. Here is a rough guideline of tools y
       Vacuum cart setup
     </p>
 
-#### Step 7: Begin Testing
+#### Step 8: Begin Testing
 {: .fw-700 }
 
-The system will continue to pump down with time. Once the vaccuum stabilizes, begin testing and data collection!
+The system will continue to pump down with time. Once the vacuum stabilizes, begin testing and data collection!
 
 {: .note }
-> If you notice that the pressure seems to be very high (ie. not at low vaccuum), then take the time to investigate where a loose interconect may be. Most commonly, the c-clamp is loose.
+> If you notice that the pressure seems to be very high (ie. not at low vacuum), then take the time to investigate where a loose interconnect may be. Most commonly, the c-clamp is loose.
 

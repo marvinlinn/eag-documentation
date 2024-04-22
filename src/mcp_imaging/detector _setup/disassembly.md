@@ -12,11 +12,6 @@ last_modified_date: March 21st, 2024
 {: .fs-8 .fw-500}
 # Backfilling and Disassembling a Test Detector
 
-<!-- # TESTGIF
-<p align:center style="width:60%; margin: auto;">
-  <img src="/assets/img/disassembly/test_put.webp" />
-</p> -->
-
 {: .fs-5 .fw-300 }
 The following page provides an overview of detector build-up of a 33mm MCP detector. Build-up usually occurs in RM125. 
 
@@ -67,7 +62,7 @@ Before we move forwards with breakdown of a detector, ensure that your workbench
 #### Step 1: Disconnecting the Detector
 {: .fw-700 }
 
-Before powering down the vaccuum pumping setup, we need to disconnect the detector from the test setup. Remove the SHV and SMA cables from the test detector body.
+Before powering down the vacuum pumping setup, we need to disconnect the detector from the test setup. Remove the SHV and SMA cables from the test detector body.
 
 <div class="row">
   <div class="column">
@@ -126,7 +121,7 @@ The bellows valve (valve 2) isolates the detector from the chamber and may be le
   </div>
 </div>
 
-#### Step 3: Backfilling the Vaccuum Setup
+#### Step 3: Backfilling the Vacuum Setup
 {: .fw-700 }
 
 1. Turn on the N2 supply.
@@ -193,7 +188,7 @@ One you have removed the window conflat, place it to the side carefully.
 
 #### Step 6: Protect and Remove MCP Clamp
 {: .fw-700 }
-Using the **Test Detector Base Holder**, carfelly place the test detector onto it. This helps with assembly/disassembly inconviencies due to detector output SMA connectors, as well as applying unessecary stress/strain on them. 
+Using the **Test Detector Base Holder**, carefully place the test detector onto it. This helps with assembly/disassembly inconveniences due to detector output SMA connectors, as well as applying unnecessary stress/strain on them. 
 
 Begin by taking the **MCP Cover** and placing it over the exposed MCP. This protects against accidental damage to the fragile plates. 
 
@@ -214,7 +209,7 @@ Using the **T7 Torx Driver**, unscrew the three (or six) M2 fasteners holding th
 </div>
 
 {: .warning }
-> From here on out, you will be working with exposed MCPs. Be very careful with handling tools around the plates, and well as physically handeling them. **DO NOT TOUCH THE SURFACE OF THE PLATES**, only touch the edges to prevent contamination and damage. While plates _can_ be cleaned, it is a tedious and time consuming process.
+> From here on out, you will be working with exposed MCPs. Be very careful with handling tools around the plates, and well as physically handling them. **DO NOT TOUCH THE SURFACE OF THE PLATES**, only touch the edges to prevent contamination and damage. While plates _can_ be cleaned, it is a tedious and time consuming process.
 
 #### Step 7: Remove clamping spacers, leaf spring, and wedge
 {: .fw-700 }
@@ -288,7 +283,7 @@ Similarly, we can remove the **bottom MCP** from the detector. Before attempting
 #### Step 10: Protect Detector, Store Sensitive Components
 {: .fw-700 }
 
-Once the disassembly process is complete, take the time to store all of the sensitve componets (**Test Detector** and **MCPs**).
+Once the disassembly process is complete, take the time to store all of the sensitive components (**Test Detector** and **MCPs**).
 
 <div align:center style="width:65%; margin: auto;">
     <img src="/assets/img/disassembly_webp/20_put_away.webp" />
